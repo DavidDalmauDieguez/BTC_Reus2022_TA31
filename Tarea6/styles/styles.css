@@ -1,0 +1,9 @@
+#reloj { 
+    width: 150px; 
+    height: 30px; 
+    padding: 5px 10px; 
+    border: 1px solid black; 
+    font: bold 1.5em "lucida sans"; 
+    text-align: center;
+    margin: 1em 3em 1em 1em; 
+}
